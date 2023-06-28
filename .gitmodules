@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ProSGPV"]
 	path = ProSGPV
 	url = https://github.com/zuoyi93/prosgpv
-	shallow = true
-	registered = true
